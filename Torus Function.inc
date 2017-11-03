@@ -1,0 +1,1 @@
+#declare TorusFn = function { pow(x, 4) + 2*pow(x, 2)*pow(y, 2) + 2*pow(x, 2)*pow(z, 2) + (-2*pow(rMaj, 2) - 2*pow(rMin, 2))*pow(x, 2) + pow(y, 4) + 2*pow(y, 2)*pow(z, 2) + (2*pow(rMaj, 2) - 2*pow(rMin, 2))*pow(y, 2) + pow(z, 4) + (-2*pow(rMaj, 2) - 2*pow(rMin, 2))*pow(z, 2) + (pow(pow(rMaj, 2) - pow(rMin, 2), 2)) }

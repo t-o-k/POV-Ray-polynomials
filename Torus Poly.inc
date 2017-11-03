@@ -1,0 +1,1 @@
+#declare TorusPoly = poly { 4, <1, 0, 0, 0, 2, 0, 0, 2, 0, -2*pow(rMaj, 2) - 2*pow(rMin, 2), 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2*pow(rMaj, 2) - 2*pow(rMin, 2), 0, 0, 0, 0, 1, 0, -2*pow(rMaj, 2) - 2*pow(rMin, 2), 0, pow(pow(rMaj, 2) - pow(rMin, 2), 2)> }

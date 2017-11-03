@@ -1,0 +1,1 @@
+#declare TorusPolynomial = polynomial { 4, xyz(4, 0, 0): 1, xyz(2, 2, 0): 2, xyz(2, 0, 2): 2, xyz(2, 0, 0): -2*pow(rMaj, 2) - 2*pow(rMin, 2), xyz(0, 4, 0): 1, xyz(0, 2, 2): 2, xyz(0, 2, 0): 2*pow(rMaj, 2) - 2*pow(rMin, 2), xyz(0, 0, 4): 1, xyz(0, 0, 2): -2*pow(rMaj, 2) - 2*pow(rMin, 2), xyz(0, 0, 0): pow(pow(rMaj, 2) - pow(rMin, 2), 2) }
