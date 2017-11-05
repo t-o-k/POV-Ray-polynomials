@@ -1,7 +1,7 @@
 # POV-Ray-polynomials
 Making POV-Ray statements for polynomial { }, poly { } and function { } from SymPy expressions for polynomials
 
-The file ``POV-Ray Polynomials.ipynb`` is an iPython notebook file, which can be used with either [Jupyter or iPython](https://ipython.org).
+The file ``POV-Ray Polynomials.ipynb`` is an iPython notebook file, which can be used with either [iPython](https://ipython.org) or [Jupyter](https://jupyter.org).
 The [Python](https://www.python.org) version 3.x code in this file uses the [SymPy](http://www.sympy.org) library to process expressions for polynomials and creates code that is suitable for use in scene description language (SDL) files for [POV-Ray](http://www.povray.org) version 3.7.
 
 The created code can be used in SDL files to create ``polynomial { }`` objects, ``poly { }`` objects and ``function { }`` expressions. The ``function { }`` expressions can, for example, be used to create isosurface objects.
