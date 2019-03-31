@@ -17,4 +17,10 @@ povray +w800 +h600 +a0.1 TorusIsosurface.pov
 
 POV-Ray will then create these image files; ``TorusPolynomial.png``, ``TorusPoly.png`` and ``TorusIsosurface.png``, all being antialiased and having a size of 800x600 pixels.
 
-[Tor Olav](http://subcube.com)
+### Project homepage
+
+https://github.com/t-o-k/POV-Ray-polynomials/
+
+### Author
+
+[Tor Olav Kristensen](http://subcube.com)
